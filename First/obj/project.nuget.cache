@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Jj5/5YI6bFwR995utEg5uVO7xarje3c90/Wc6kmLXOPxhY4/GaRuyoSHlz/n7kW73wjpgLCkyNtNYxc4fICMAg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Emil Abdullayev\\Desktop\\Programming\\P138\\First\\First\\First.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Emil Abdullayev\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.32\\microsoft.netcore.app.host.win-x64.3.1.32.nupkg.sha512"
+  ],
+  "logs": []
+}
